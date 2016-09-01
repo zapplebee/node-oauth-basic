@@ -1,0 +1,17 @@
+{
+  "name": "nodeoauthbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "node-sass-middleware": "^0.9.8",
+    "pug": "^2.0.0-beta5"
+  }
+}
